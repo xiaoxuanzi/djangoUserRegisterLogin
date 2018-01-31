@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'djangoUserRegisterLogin.wsgi.application'
 DATABASES = {
    'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'looker',
+        'NAME': 'test',
         'HOST': '10.10.10.1',
         'USER': 'root',
         'PASSWORD': 'passwd',
